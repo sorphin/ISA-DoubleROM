@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "DoubleROM"
-Date "2019-07-13"
+Title "DoubleROM-DOC"
+Date "2020-08-14"
 Rev "1.0"
-Comp "Monotech PCs"
-Comment1 "ISA Dual ROM Card"
-Comment2 ""
+Comp "sorphin"
+Comment1 "ISA Dual ROM Card w/ DiskOnChip"
+Comment2 "Original by Monotech PCs"
 Comment3 ""
 Comment4 ""
 $EndDescr
