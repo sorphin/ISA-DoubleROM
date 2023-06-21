@@ -1198,7 +1198,7 @@ Decoupling capacitors
 Text Notes 11100 4800 2    50   ~ 0
 IBM XT Slot-8 Support
 Text Notes 5300 650  2    50   ~ 0
-ROM Socket 1
+DOC Socket 1
 Text Notes 5300 3700 2    50   ~ 0
 ROM Socket 2
 Wire Notes Line
